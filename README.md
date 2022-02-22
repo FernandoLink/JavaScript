@@ -6,3 +6,4 @@
 - [Variáveis String.](https://fernandolink.github.io/JavaScript/CursoJs/aula06/ex002.html)
 - [Variáveis Number e Template Strings.](https://fernandolink.github.io/JavaScript/CursoJs/aula06/ex003.html)
 - [Variáveis Strings, Length, toUpperCase e toLowerCase.](https://fernandolink.github.io/JavaScript/CursoJs/aula06/ex004.html)
+- [DOM - Document Object Model.](https://fernandolink.github.io/JavaScript/CursoJs/aula09/ex005.html)
