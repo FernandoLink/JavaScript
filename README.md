@@ -11,5 +11,6 @@
 - [Somando Valores.](https://fernandolink.github.io/JavaScript/CursoJs/aula10/ex007.html)
 - [Condição Simples 1.](https://fernandolink.github.io/JavaScript/CursoJs/aula11/ex009.html)
 - [Condição Simples 2.](https://fernandolink.github.io/JavaScript/CursoJs/aula11/ex010.html)
-- [Modelo.](https://fernandolink.github.io/JavaScript/CursoJs/aula12ex/modelo.html)
+- [Modelo.](https://fernandolink.github.io/JavaScript/CursoJs/aula12ex/modelo/modelo.html)
 - [Hora do Dia.](https://fernandolink.github.io/JavaScript/CursoJs/aula12ex/ex014/modelo.html)
+- [Verificador de Idade.](https://fernandolink.github.io/JavaScript/CursoJs/aula12ex/ex015/modelo.html)
