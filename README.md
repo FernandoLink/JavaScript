@@ -14,3 +14,4 @@
 - [Modelo.](https://fernandolink.github.io/JavaScript/CursoJs/aula12ex/modelo/modelo.html)
 - [Hora do Dia.](https://fernandolink.github.io/JavaScript/CursoJs/aula12ex/ex014/modelo.html)
 - [Verificador de Idade.](https://fernandolink.github.io/JavaScript/CursoJs/aula12ex/ex015/modelo.html)
+- [Super Contador.](https://fernandolink.github.io/JavaScript/CursoJs/aula14ex/ex016/modelo.html)
