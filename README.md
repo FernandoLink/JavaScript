@@ -16,3 +16,4 @@
 - [Verificador de Idade.](https://fernandolink.github.io/JavaScript/CursoJs/aula12ex/ex015/modelo.html)
 - [Super Contador.](https://fernandolink.github.io/JavaScript/CursoJs/aula14ex/ex016/modelo.html)
 - [Tabuada.](https://fernandolink.github.io/JavaScript/CursoJs/aula14ex/ex017/modelo.html)
+- [Analisador de Números.](https://fernandolink.github.io/JavaScript/CursoJs/aula16ex/ex018/modelo.html)
